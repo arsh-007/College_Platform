@@ -35,6 +35,8 @@ The polls app has a feture allowing only one vote to be cast by each student aft
 
 Students can only use a unique email id with the institute domain to access the website
 
+Only verified teachers' accounts are allowed to access Dashboard
+
 ![Screenshot from 2021-11-24 14-47-12](https://user-images.githubusercontent.com/75245925/143211142-46e5fc5c-4e6a-472e-8255-dd53b2e4400a.png)
 ![Screenshot from 2021-11-24 14-47-22](https://user-images.githubusercontent.com/75245925/143211167-7a3fe5bb-5f12-4a32-a7e2-b1a489f4cd3d.png)![Screenshot from 2021-11-24 14-47-32](https://user-images.githubusercontent.com/75245925/143211175-13084471-6020-4079-8696-184253328144.png)
 ![Screenshot from 2021-11-24 14-47-40](https://user-images.githubusercontent.com/75245925/143211192-497c3b6a-8ad6-4f81-a620-b2d3a6af6828.png)
