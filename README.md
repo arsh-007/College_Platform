@@ -1,5 +1,6 @@
 # College_Platform 
 
+
 ## Motivation
 
 As in this online education system students have to check different platforms like MS Teams, classroom and sometimes WhatsApp regularly to stay aware of the important notices and exams, so it will comfortable to find all these stuff at oneplace.
